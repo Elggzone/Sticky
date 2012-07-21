@@ -1,4 +1,4 @@
 Sticky
 ======
 
-Sticky footer for Elgg
+Sticky will make your Elgg footer stick to the bottom of the page.
